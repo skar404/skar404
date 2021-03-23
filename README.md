@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My telegram bots:
+ - [@spotify_share_bot](https://t.me/spotify_share_bot) - share spotify music, [code](https://github.com/skar404/spotify_share)
+ - [@send_id_bot](https://t.me/send_id_bot) - get user/group telegram id, [code](https://github.com/skar404/telegram-get-id)
+ - in developing hoba hoba bot, [code](https://github.com/skar404/hoba-hoba), is post RSS podcast feed to telegram
+
+
 <!--
 **skar404/skar404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
