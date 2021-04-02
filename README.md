@@ -6,6 +6,8 @@ My telegram bots:
  - in developing hoba hoba bot, [code](https://github.com/skar404/hoba-hoba), is post RSS podcast feed to telegram
 
 
+![hi, i'm pixel](https://hit.yhype.me/github/profile?user_id=8483941)
+
 <!--
 **skar404/skar404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
