@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Links: 
+My links: 
  - telegram: [Denis Malin](https://t.me/denis_malin)
  - channel: [A cod in the percolator](https://t.me/cod_percolator)
 
