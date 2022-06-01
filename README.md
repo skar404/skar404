@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My telegram bots:
+My Links: 
+ - telegram: [Denis Malin](https://t.me/denis_malin)
+ - channel: [A cod in the percolator](https://t.me/cod_percolator)
+
+My pet projects:
  - [@spotify_share_bot](https://t.me/spotify_share_bot) - share spotify music, [code](https://github.com/skar404/spotify_share)
  - [@send_id_bot](https://t.me/send_id_bot) - get user/group telegram id, [code](https://github.com/skar404/telegram-get-id)
  - in developing hoba hoba bot, [code](https://github.com/skar404/hoba-hoba), is post RSS podcast feed to telegram
