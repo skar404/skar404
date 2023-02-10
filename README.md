@@ -9,8 +9,6 @@ My pet projects:
  - [@send_id_bot](https://t.me/send_id_bot) - get user/group telegram id, [code](https://github.com/skar404/telegram-get-id)
  - in developing hoba hoba bot, [code](https://github.com/skar404/hoba-hoba), is post RSS podcast feed to telegram
 
-<img src="https://spotify-badge-a6d7.vercel.app/api/now-playing" width="540" height="52">
-
 <!--
 **skar404/skar404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
